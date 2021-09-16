@@ -112,6 +112,7 @@ namespace FirsstApplication
             int iChoice;
             do
             {
+		Console.WriteLine("Welcome to Calculation App");
                 Console.WriteLine("Please enter your choice \n 1. Check Prime \t2.Calculate Tax \t3.Dynamic Calculation\t 0.Exit\n");
                 iChoice = int.Parse(Console.ReadLine());
                 switch (iChoice)
