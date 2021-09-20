@@ -39,6 +39,12 @@ namespace PLTusingCSharp
                 Console.WriteLine("The division of the two numbers entered gives {0}", res);
             }
         }
+       
+
+    }
+
+    class UseCalculateEg
+    {
         static void Main(string[] args)
         {
             int Num1, Num2, ch;
@@ -64,17 +70,17 @@ namespace PLTusingCSharp
             switch (ch)
             {
                 case 1:
-                    addition(Num1, Num2);
+                    CalcuateEg.addition(Num1, Num2);
                     break;
                 case 2:
-                    subtraction(Num1, Num2);
+                    CalcuateEg.subtraction(Num1, Num2);
                     break;
                 case 3:
-                    int result=multiplication(Num1, Num2);
+                    int result = CalcuateEg.multiplication(Num1, Num2);
                     Console.WriteLine("The product of the two numbers entered is {0}", result);
                     break;
                 case 4:
-                    division(Num1, Num2);
+                    CalcuateEg.division(Num1, Num2);
                     break;
 
             }
@@ -83,6 +89,7 @@ namespace PLTusingCSharp
             Console.ReadLine();
 
         }
-
     }
+
+
 }

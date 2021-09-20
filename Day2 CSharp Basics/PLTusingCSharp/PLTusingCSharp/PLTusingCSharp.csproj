@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>PLTusingCSharp.UseParamsArray</StartupObject>
+    <StartupObject>PLTusingCSharp.UseCalculateEg</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

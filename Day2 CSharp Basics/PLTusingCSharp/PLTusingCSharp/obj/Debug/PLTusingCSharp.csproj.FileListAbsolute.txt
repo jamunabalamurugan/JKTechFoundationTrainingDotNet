@@ -5,3 +5,10 @@ E:\AT\Day2\PLTusingCSharp\PLTusingCSharp\obj\Debug\PLTusingCSharp.csproj.CoreCom
 E:\AT\Day2\PLTusingCSharp\PLTusingCSharp\obj\Debug\PLTusingCSharp.exe
 E:\AT\Day2\PLTusingCSharp\PLTusingCSharp\obj\Debug\PLTusingCSharp.pdb
 E:\AT\Day2\PLTusingCSharp\PLTusingCSharp\obj\Debug\PLTusingCSharp.csprojAssemblyReference.cache
+E:\AT2\Training\Day1 .NetFramewok\Day2 CSharp Basics\PLTusingCSharp\PLTusingCSharp\bin\Debug\PLTusingCSharp.exe.config
+E:\AT2\Training\Day1 .NetFramewok\Day2 CSharp Basics\PLTusingCSharp\PLTusingCSharp\bin\Debug\PLTusingCSharp.exe
+E:\AT2\Training\Day1 .NetFramewok\Day2 CSharp Basics\PLTusingCSharp\PLTusingCSharp\bin\Debug\PLTusingCSharp.pdb
+E:\AT2\Training\Day1 .NetFramewok\Day2 CSharp Basics\PLTusingCSharp\PLTusingCSharp\obj\Debug\PLTusingCSharp.csprojAssemblyReference.cache
+E:\AT2\Training\Day1 .NetFramewok\Day2 CSharp Basics\PLTusingCSharp\PLTusingCSharp\obj\Debug\PLTusingCSharp.csproj.CoreCompileInputs.cache
+E:\AT2\Training\Day1 .NetFramewok\Day2 CSharp Basics\PLTusingCSharp\PLTusingCSharp\obj\Debug\PLTusingCSharp.exe
+E:\AT2\Training\Day1 .NetFramewok\Day2 CSharp Basics\PLTusingCSharp\PLTusingCSharp\obj\Debug\PLTusingCSharp.pdb
