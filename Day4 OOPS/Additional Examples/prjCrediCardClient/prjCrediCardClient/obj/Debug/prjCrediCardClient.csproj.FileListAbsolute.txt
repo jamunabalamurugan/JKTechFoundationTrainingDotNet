@@ -1,0 +1,10 @@
+D:\GET .NET 775\CSharp\prjCrediCardClient\prjCrediCardClient\bin\Debug\prjCrediCardClient.exe.config
+D:\GET .NET 775\CSharp\prjCrediCardClient\prjCrediCardClient\bin\Debug\prjCrediCardClient.exe
+D:\GET .NET 775\CSharp\prjCrediCardClient\prjCrediCardClient\bin\Debug\prjCrediCardClient.pdb
+D:\GET .NET 775\CSharp\prjCrediCardClient\prjCrediCardClient\obj\Debug\prjCrediCardClient.csproj.CoreCompileInputs.cache
+D:\GET .NET 775\CSharp\prjCrediCardClient\prjCrediCardClient\obj\Debug\prjCrediCardClient.exe
+D:\GET .NET 775\CSharp\prjCrediCardClient\prjCrediCardClient\obj\Debug\prjCrediCardClient.pdb
+D:\GET .NET 775\CSharp\prjCrediCardClient\prjCrediCardClient\bin\Debug\prjCreditCardDLL.dll
+D:\GET .NET 775\CSharp\prjCrediCardClient\prjCrediCardClient\bin\Debug\prjCreditCardDLL.pdb
+D:\GET .NET 775\CSharp\prjCrediCardClient\prjCrediCardClient\obj\Debug\prjCrediCardClient.csprojAssemblyReference.cache
+D:\GET .NET 775\CSharp\prjCrediCardClient\prjCrediCardClient\obj\Debug\prjCrediCardClient.csproj.CopyComplete

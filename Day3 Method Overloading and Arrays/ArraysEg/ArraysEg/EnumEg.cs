@@ -30,7 +30,8 @@ namespace ArraysEg
 
             Days workingFromHomeDays = Days.Thursday | Days.Friday;
             Console.WriteLine($"Join a meeting by phone on {meetingDays & workingFromHomeDays}");
-            Console.WriteLine(@"E:\AT\Day3\tHello");
+            Console.WriteLine(@"E:\AT2\Day3\tHello");//@ stands for absolute
+            Console.WriteLine("Hello \"Jamuna\" ");
             // Output:
             // Join a meeting by phone on Friday
 

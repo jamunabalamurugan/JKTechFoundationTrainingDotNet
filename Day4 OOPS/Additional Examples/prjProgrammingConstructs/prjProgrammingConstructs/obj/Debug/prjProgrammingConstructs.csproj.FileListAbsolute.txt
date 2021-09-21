@@ -1,0 +1,14 @@
+D:\CSharp\prjProgrammingConstructs\prjProgrammingConstructs\bin\Debug\prjProgrammingConstructs.exe.config
+D:\CSharp\prjProgrammingConstructs\prjProgrammingConstructs\bin\Debug\prjProgrammingConstructs.exe
+D:\CSharp\prjProgrammingConstructs\prjProgrammingConstructs\bin\Debug\prjProgrammingConstructs.pdb
+D:\CSharp\prjProgrammingConstructs\prjProgrammingConstructs\obj\Debug\prjProgrammingConstructs.csproj.CoreCompileInputs.cache
+D:\CSharp\prjProgrammingConstructs\prjProgrammingConstructs\obj\Debug\prjProgrammingConstructs.exe
+D:\CSharp\prjProgrammingConstructs\prjProgrammingConstructs\obj\Debug\prjProgrammingConstructs.pdb
+D:\CSharp\prjProgrammingConstructs\prjProgrammingConstructs\obj\Debug\prjProgrammingConstructs.csprojAssemblyReference.cache
+F:\Jamuna\LTI Jan 2020\GET 830\Training\CSharp\CSharp 775\prjProgrammingConstructs\prjProgrammingConstructs\bin\Debug\prjProgrammingConstructs.exe.config
+F:\Jamuna\LTI Jan 2020\GET 830\Training\CSharp\CSharp 775\prjProgrammingConstructs\prjProgrammingConstructs\bin\Debug\prjProgrammingConstructs.exe
+F:\Jamuna\LTI Jan 2020\GET 830\Training\CSharp\CSharp 775\prjProgrammingConstructs\prjProgrammingConstructs\bin\Debug\prjProgrammingConstructs.pdb
+F:\Jamuna\LTI Jan 2020\GET 830\Training\CSharp\CSharp 775\prjProgrammingConstructs\prjProgrammingConstructs\obj\Debug\prjProgrammingConstructs.csprojAssemblyReference.cache
+F:\Jamuna\LTI Jan 2020\GET 830\Training\CSharp\CSharp 775\prjProgrammingConstructs\prjProgrammingConstructs\obj\Debug\prjProgrammingConstructs.csproj.CoreCompileInputs.cache
+F:\Jamuna\LTI Jan 2020\GET 830\Training\CSharp\CSharp 775\prjProgrammingConstructs\prjProgrammingConstructs\obj\Debug\prjProgrammingConstructs.exe
+F:\Jamuna\LTI Jan 2020\GET 830\Training\CSharp\CSharp 775\prjProgrammingConstructs\prjProgrammingConstructs\obj\Debug\prjProgrammingConstructs.pdb

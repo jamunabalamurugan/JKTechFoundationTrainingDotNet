@@ -1,0 +1,6 @@
+D:\GET .NET 775\CSharp\prjCreditCardDLL\prjCreditCardDLL\bin\Debug\prjCreditCardDLL.dll
+D:\GET .NET 775\CSharp\prjCreditCardDLL\prjCreditCardDLL\bin\Debug\prjCreditCardDLL.pdb
+D:\GET .NET 775\CSharp\prjCreditCardDLL\prjCreditCardDLL\obj\Debug\prjCreditCardDLL.csprojAssemblyReference.cache
+D:\GET .NET 775\CSharp\prjCreditCardDLL\prjCreditCardDLL\obj\Debug\prjCreditCardDLL.csproj.CoreCompileInputs.cache
+D:\GET .NET 775\CSharp\prjCreditCardDLL\prjCreditCardDLL\obj\Debug\prjCreditCardDLL.dll
+D:\GET .NET 775\CSharp\prjCreditCardDLL\prjCreditCardDLL\obj\Debug\prjCreditCardDLL.pdb

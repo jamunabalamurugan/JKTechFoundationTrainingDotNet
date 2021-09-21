@@ -28,7 +28,8 @@ namespace ArraysEg
             //age = "twenty three"; The var datatype cannot be changed....only value can changed
             studentid = 45;
             var aggregatemarks = 89.45d;
-
+            var age1 = 25.3f;
+            //dynamic age = null; Error as null expression cannot be assigned to dynamic type
            /* dynamic type:
 ▪ The dynamic type indicates that use of the variable and references to its members bypass compiletime type checking.
 ▪ Instead, these operations are resolved at run time.

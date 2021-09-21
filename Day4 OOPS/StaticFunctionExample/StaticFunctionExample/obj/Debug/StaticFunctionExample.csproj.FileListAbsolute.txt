@@ -1,0 +1,7 @@
+F:\Jamuna\GET 855\C#\Day3\StaticFunctionExample\StaticFunctionExample\bin\Debug\StaticFunctionExample.exe.config
+F:\Jamuna\GET 855\C#\Day3\StaticFunctionExample\StaticFunctionExample\bin\Debug\StaticFunctionExample.exe
+F:\Jamuna\GET 855\C#\Day3\StaticFunctionExample\StaticFunctionExample\bin\Debug\StaticFunctionExample.pdb
+F:\Jamuna\GET 855\C#\Day3\StaticFunctionExample\StaticFunctionExample\obj\Debug\StaticFunctionExample.csprojAssemblyReference.cache
+F:\Jamuna\GET 855\C#\Day3\StaticFunctionExample\StaticFunctionExample\obj\Debug\StaticFunctionExample.csproj.CoreCompileInputs.cache
+F:\Jamuna\GET 855\C#\Day3\StaticFunctionExample\StaticFunctionExample\obj\Debug\StaticFunctionExample.exe
+F:\Jamuna\GET 855\C#\Day3\StaticFunctionExample\StaticFunctionExample\obj\Debug\StaticFunctionExample.pdb

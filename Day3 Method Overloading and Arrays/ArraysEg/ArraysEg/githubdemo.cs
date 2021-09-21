@@ -8,6 +8,11 @@ namespace ArraysEg
 {
     class Duplicate
     {
+        String str1;//Common Type System
+        //Dim name as Text
+        string str2;
+        int i;//CSharp data type name
+        Int32 j;//Common Type 
         static void Main(string[] args)
         {
             char[] ch = new char[5] { 'a', 'b', 'a', 'c', 'd' };
