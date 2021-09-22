@@ -1,0 +1,7 @@
+C:\Users\Jamuna\Source\Repos\OopsAbstractInterfacesEg\OopsAbstractInterfacesEg\bin\Debug\OopsAbstractInterfacesEg.exe.config
+C:\Users\Jamuna\Source\Repos\OopsAbstractInterfacesEg\OopsAbstractInterfacesEg\bin\Debug\OopsAbstractInterfacesEg.exe
+C:\Users\Jamuna\Source\Repos\OopsAbstractInterfacesEg\OopsAbstractInterfacesEg\bin\Debug\OopsAbstractInterfacesEg.pdb
+C:\Users\Jamuna\Source\Repos\OopsAbstractInterfacesEg\OopsAbstractInterfacesEg\obj\Debug\OopsAbstractInterfacesEg.csprojAssemblyReference.cache
+C:\Users\Jamuna\Source\Repos\OopsAbstractInterfacesEg\OopsAbstractInterfacesEg\obj\Debug\OopsAbstractInterfacesEg.csproj.CoreCompileInputs.cache
+C:\Users\Jamuna\Source\Repos\OopsAbstractInterfacesEg\OopsAbstractInterfacesEg\obj\Debug\OopsAbstractInterfacesEg.exe
+C:\Users\Jamuna\Source\Repos\OopsAbstractInterfacesEg\OopsAbstractInterfacesEg\obj\Debug\OopsAbstractInterfacesEg.pdb
