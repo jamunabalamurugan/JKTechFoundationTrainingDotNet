@@ -18,7 +18,7 @@ namespace prjOverloadingExample
             Console.WriteLine("The Destructor of Employee Called");
         }
 
-        internal Employee()
+        public Employee()
         {
             Console.WriteLine("Inside Constructor of Employee");
             id = "E000";
@@ -28,12 +28,12 @@ namespace prjOverloadingExample
 
         }
 
-        internal Employee(string id, string name, int age, float salary)
+        public Employee(string eid, string ename, int eage, float esalary)
         {
-            this.id = id;
-            this.name = name;
-            this.age = age;
-            this.salary = salary;
+            id = eid;//this.id = eid;
+            this.name = ename;
+            this.age = eage;
+            this.salary = esalary;
             Console.WriteLine("Inside Overloaded Constructor of Employee");
         }
 
@@ -64,19 +64,21 @@ namespace prjOverloadingExample
 
 
     }
-class PartTimeEmployee : Employee
+class PartTimeEmployee : Employee//inheriting from Base class
     {
         float dailyPerks;
-        public PartTimeEmployee()
+        public PartTimeEmployee()//derived class default contructor
         {
-            Console.WriteLine("Inside Default Constructor of Employee");
+            Console.WriteLine("Inside Default Constructor of PartTimeEmployee");
             dailyPerks = 0;
         }
-        internal PartTimeEmployee(string id, string name, int age,
-            float salary, float perk)//dailyPerks)
-            : base(id, name, age, salary)
+        internal PartTimeEmployee(string id, string name, int age,float salary, float perk) : base(id, name, age, salary)
+        //call the default constructor of the base class
+        //if  you want to call the overloaded constrcutor use the base keyword and call the overloaded constructor explicitly
+
         {
             Console.WriteLine("Inside Overloaded Constructor of PTEmployee");
+            
             dailyPerks = perk;
             //this.dailyPerks=dailyPerks;
         }
@@ -104,8 +106,8 @@ class PartTimeEmployee : Employee
         void Recruit()
         {
             Employee e1 = new Employee();//default Constructor
-            e1.GetEmployeeData();
-            e1.PrintEmployeeData();
+           // e1.GetEmployeeData();
+          //  e1.PrintEmployeeData();
 
             Console.WriteLine("------------"); //Next line calling overloaded constructor
             Employee e2 = new Employee("E002", "Kanav", 22, 123456.33f);
@@ -120,8 +122,8 @@ class PartTimeEmployee : Employee
         }
         static void Main(string[] s)
         {
-            Company lti = new Company();
-            lti.Recruit();
+            Company at2 = new Company();
+            at2.Recruit();
 
             GC.Collect();
             Console.ReadKey();

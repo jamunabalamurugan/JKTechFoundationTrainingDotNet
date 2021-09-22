@@ -21,19 +21,22 @@ namespace prjOOPSConcepts
             this.name = name;
             this.colour = colour;
         }
-        //public virtual double Area()//Virtual and Abstract is used
-        //                            //To postpond binding of this method during runtime
-        //{
-        //    return 0.0;
-        //}
-        public abstract double Area();
+        public virtual double Area()//Virtual and Abstract is used
+                                    //To postpond binding of this method during runtime
+        {
+            return 0.0;
+        }
+       // public abstract double Area();
         public virtual void Accept()
         {
             Console.WriteLine("Pls enter Name and Colour");
             name = Console.ReadLine();
             colour = Console.ReadLine();
         }
-
+        public virtual double Calculate()
+        {
+            return 100;
+        }
     }
     public class Rectangle : Shape
     {
@@ -53,6 +56,11 @@ namespace prjOOPSConcepts
         public void Draw()
         {
             Console.WriteLine("Drwaing Rectangle");
+        }
+        public new double Calculate()
+        {
+            return base.Calculate() + 5;
+            
         }
     }
     public class Circle:Shape
@@ -79,6 +87,10 @@ namespace prjOOPSConcepts
         {
             return PI * radius * radius;
         }
+        public new double Calculate()
+        {
+            return base.Calculate()+10;
+        }
 
     }
 
@@ -87,19 +99,21 @@ namespace prjOOPSConcepts
         static void Main()
         {
             Shape s;
-
+            Rectangle r;
+            r = new Rectangle("Rectangle", "Pink", 11, 5);
             Console.WriteLine("Enter 1.Rectangle 2.Circle 0.Exit");
             int choice = Convert.ToInt32(Console.ReadLine());
             if(choice==1)
             {
                 s = new Rectangle("Rectangle","Pink",11,5);
+                
                 s.Accept();
                 
             }
             else if(choice==2)
             {
                 s = new Circle("Circle","Blue",3.5);
-*                s.Accept();
+                s.Accept();
             }
             else
             {
@@ -109,8 +123,9 @@ namespace prjOOPSConcepts
                 return;
             }
 
-            double result = s.Area();
-            Console.WriteLine("Area is {0}",result);
+            double result = s.Area();//static binding....the methods of the Shape class will be associated to its object s at the time of compilation
+            double result1 = s.Calculate();
+            Console.WriteLine("Area is {0} and Calculate is {1}",result,result1);
             Console.ReadKey();
         }
     }

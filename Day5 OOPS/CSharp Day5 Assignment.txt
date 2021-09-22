@@ -1,0 +1,22 @@
+Day 5 Assignment
+
+a.Create a class Employee with the members - 10 Mins
+id
+name
+age
+phone
+
+Methods
+TakeEmployeeDetailsFromUser()
+PrintEmployeeDetails()
+b. Create 2 childern for the Employee Class
+PartTimeEmployee,FullTimeEmployee
+PartTimeEmployee 
+Working()
+FullTimeEmployee has
+ScheduledWork()
+c. Create a Company Class
+CreateEmployee Method
+Ask the user the type of employee to be created and create it
+Call the RunCompany(Employee employee) method using the object created
+

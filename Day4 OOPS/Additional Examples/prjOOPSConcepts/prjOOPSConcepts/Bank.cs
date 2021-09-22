@@ -59,7 +59,7 @@ namespace prjOverridingExample
                 cmgr.SolveQueries();
 
             }
-            else if (strSe lect == "2")
+            else if (strSelect == "2")
             {
                 IEmployeeManager emgr = mgr;
                 emgr.ConductMeeting();
