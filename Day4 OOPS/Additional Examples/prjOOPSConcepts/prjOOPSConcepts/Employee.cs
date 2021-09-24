@@ -91,7 +91,8 @@ namespace prjOOPSConcepts
             {
                 e1 = new Employee();
                 e1.PrintEmployeeData();
-               // Console.WriteLine(e1.id + " " + e1.name + " " + e1.age);
+                //Console.WriteLine("Salary is " + salary);
+                // Console.WriteLine(e1.id + " " + e1.name + " " + e1.age);
             }
             else
             {

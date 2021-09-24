@@ -10,7 +10,7 @@ namespace CalculateArea
     interface IArea
     {
       
-        void calcArea(double Radius);//Looks like a clas but has no implementation
+        void calcArea(double Radius);//Looks like a class but has no implementation
         //contains only declaration of members
         //standard structure of methods
         //define what a class can do,does not define how the class does it
@@ -52,15 +52,17 @@ namespace CalculateArea
             Cube obj = new Cube();
             double Radius;
             int Side;
-
+            IArea obj1 = new Cube();
+            IVolume obj2 = new Cube();
             Console.WriteLine("Enter the radius of a circle");
             Radius = Convert.ToDouble(Console.ReadLine());
             obj.calcArea(Radius);
+            obj1.calcArea(Radius);
 
             Console.WriteLine("Enter the side of a cube");
             Side = Convert.ToInt32(Console.ReadLine());
             obj.calcVolume(Side);
-
+            obj2.calcVolume(Side);
             Console.ReadLine();
 
         }

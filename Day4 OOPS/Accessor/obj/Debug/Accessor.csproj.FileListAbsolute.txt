@@ -21,3 +21,10 @@ F:\Jamuna\LTI Jan 2020\GET 830\Training\CSharp\CSharp 775\Accessor\obj\Debug\Acc
 F:\Jamuna\LTI Jan 2020\GET 830\Training\CSharp\CSharp 775\Accessor\obj\Debug\Accessor.csproj.CoreCompileInputs.cache
 F:\Jamuna\LTI Jan 2020\GET 830\Training\CSharp\CSharp 775\Accessor\obj\Debug\Accessor.exe
 F:\Jamuna\LTI Jan 2020\GET 830\Training\CSharp\CSharp 775\Accessor\obj\Debug\Accessor.pdb
+E:\AT2\Training\Day1 .NetFramewok\Day4 OOPS\Accessor\bin\Debug\Accessor.exe.config
+E:\AT2\Training\Day1 .NetFramewok\Day4 OOPS\Accessor\bin\Debug\Accessor.exe
+E:\AT2\Training\Day1 .NetFramewok\Day4 OOPS\Accessor\bin\Debug\Accessor.pdb
+E:\AT2\Training\Day1 .NetFramewok\Day4 OOPS\Accessor\obj\Debug\Accessor.csprojAssemblyReference.cache
+E:\AT2\Training\Day1 .NetFramewok\Day4 OOPS\Accessor\obj\Debug\Accessor.csproj.CoreCompileInputs.cache
+E:\AT2\Training\Day1 .NetFramewok\Day4 OOPS\Accessor\obj\Debug\Accessor.exe
+E:\AT2\Training\Day1 .NetFramewok\Day4 OOPS\Accessor\obj\Debug\Accessor.pdb

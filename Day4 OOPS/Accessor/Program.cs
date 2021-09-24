@@ -9,7 +9,7 @@ namespace Accessor
 
     class Employee
     {
-       //Properties or extension mof Attributes
+       //Properties or extension of Attributes
         //A property is usually declared Private in a class
         //A pair of set and get accessor method will access to the property
         //Properties can have any program logic,throw exceptions,be overriden
@@ -26,6 +26,19 @@ namespace Accessor
         {
             get { return _Eid; }
             set { _Eid = value; }
+        }
+        int eno;
+        public int Eno
+        {
+            get { return eno; }//reading
+
+            //set is for writing
+            set { 
+                if(value>0)
+                    eno = value;
+                else
+                    Console.WriteLine("Invalid");
+            }
         }
        public string Ename { get; set; } //auto 
         public string City;
@@ -56,8 +69,10 @@ namespace Accessor
         {
             Employee e = new Employee(101, "Kavin","Bangalore");
             Console.WriteLine(e.Eid);
-           // e._Eid = 1001;--Error as they are private by default
-           // e.x = 10;--Error
+            // e._Eid = 1001;--Error as they are private by default
+            // e.x = 10;--Error
+            e.Eno = -4;
+            Console.WriteLine("Eno is "+e.Eno);
             e.Eid = 1001;
             e.Ename = "sdfgh";
             Console.WriteLine(e.Eid);

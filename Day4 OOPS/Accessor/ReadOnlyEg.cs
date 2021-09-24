@@ -11,7 +11,10 @@ namespace Accessor
         private string name;
         private string location;
         public string City { 
-            set { if (value == "") Console.WriteLine("Sorry City cannot be Empty"); } } //auto and Its is write only ....cant read as we dont have a get
+            set { if (value == "") 
+                    Console.WriteLine("Sorry City cannot be Empty"); 
+            }
+        } //auto and Its is write only ....cant read as we dont have a get
         public User(string a, string b)
         {
             name = a;
@@ -27,22 +30,25 @@ namespace Accessor
                     Console.WriteLine("User Name should have minimum 5 letters");
                 }
         }
-        public string Location{get{return location;}}//Read only property needs onlt get accessor
+        public string Location{get{return location;}}//Read only property needs only get accessor
+        //auto implementation
+        protected int Age { get; set; }
     }
     class UserProgram
     {
         static void Main(string[] args)
         {
-            User u = new User("Jamuna Balamurugan", "Chennai");
+            User u = new User("Jamuna Balamurugan", "Bangalore");
             Console.WriteLine("Welcome {0}! Please enter the changes you need in your Name",u.Name);
+            
             u.Name = Console.ReadLine();
              //u.Name = null;--Error if we dont have a set acccessor
             // compile error
-            // u.Location = "Delhi"; --Read only property....does not have set....so we cannot change value
+            //u.Location = "Delhi"; //Read only property....does not have set....so we cannot write new value
             // get accessor will invoke
             Console.WriteLine("Name: " + u.Name);
             // get accessor will invoke
-            Console.WriteLine("Location: " + u.Location);
+            Console.WriteLine("Location: " + u.Location);//call the get method....so we can read
             Console.WriteLine("Enter City");
             u.City = Console.ReadLine();//call the set accessor
             Console.WriteLine("\nPress Enter Key to Exit..");
@@ -89,7 +95,7 @@ namespace Accessor
 //class user
 //{
 //    private string name;
-//    public string name
+//    public string Name
 //    {
 //        get { return name; }
 //        set { name = value; }

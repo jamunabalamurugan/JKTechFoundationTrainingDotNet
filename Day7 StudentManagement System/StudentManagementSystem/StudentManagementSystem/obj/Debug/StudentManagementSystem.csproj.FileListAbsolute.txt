@@ -1,0 +1,14 @@
+E:\SPANTECH\Training\Day7_.NetFramework\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+E:\SPANTECH\Training\Day7_.NetFramework\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+E:\SPANTECH\Training\Day7_.NetFramework\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+E:\SPANTECH\Training\Day7_.NetFramework\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojAssemblyReference.cache
+E:\SPANTECH\Training\Day7_.NetFramework\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+E:\SPANTECH\Training\Day7_.NetFramework\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+E:\SPANTECH\Training\Day7_.NetFramework\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+E:\AT2\Training\Day1 .NetFramewok\Day7 StudentManagement System\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+E:\AT2\Training\Day1 .NetFramewok\Day7 StudentManagement System\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+E:\AT2\Training\Day1 .NetFramewok\Day7 StudentManagement System\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+E:\AT2\Training\Day1 .NetFramewok\Day7 StudentManagement System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojAssemblyReference.cache
+E:\AT2\Training\Day1 .NetFramewok\Day7 StudentManagement System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+E:\AT2\Training\Day1 .NetFramewok\Day7 StudentManagement System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+E:\AT2\Training\Day1 .NetFramewok\Day7 StudentManagement System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb

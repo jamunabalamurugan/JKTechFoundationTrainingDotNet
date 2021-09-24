@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DrawShapes
+namespace OopsAbstractInterfacesEg
 {
     //public class Draw
     //{
@@ -16,7 +16,7 @@ namespace DrawShapes
     //    }
 
     //}
-    public abstract class DrawingObject//:Draw
+    public abstract partial class DrawingObject//:Draw
     {
         public abstract void Draw();//It has no body or implementation...so its compulsory that the derive class must implement an abstract method
         public virtual void Photo() { Console.WriteLine("Hello...."); }
@@ -38,6 +38,14 @@ namespace DrawShapes
         public sealed override void Photo()
         {
             Console.WriteLine("Photo is sealed withing Line Class");
+        }
+        public Line(int i)
+        {
+
+        }
+        public Line()
+        {
+
         }
 
     }
@@ -90,9 +98,12 @@ namespace DrawShapes
             dObj[1] = new Circle();
             dObj[2] = new Square();
 
-            foreach (DrawingObject drawObj in dObj)
+
+            DrawingObject[] dobjects = { new Line(), new Circle(), new Square() };
+
+            foreach (DrawingObject item in dobjects)
             {
-                drawObj.Draw();
+                item.Draw();
             }
             Console.ReadLine();
             return 0;

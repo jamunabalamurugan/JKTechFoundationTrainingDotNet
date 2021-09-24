@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CalculateArea.class1</StartupObject>
+    <StartupObject>OopsAbstractInterfacesEg.InterfaceImplementer</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,9 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AT2Bangalore.cs" />
     <Compile Include="CalculateInterface.cs" />
     <Compile Include="DrawShapesAbstractEg.cs" />
     <Compile Include="FurnitureAbstractEg.cs" />
+    <Compile Include="InterfaceEg.cs" />
     <Compile Include="SealedClassesEg.cs" />
     <Compile Include="StaticClassEg.cs" />
     <Compile Include="VirtualFunction.cs" />
